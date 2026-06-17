@@ -1,0 +1,1068 @@
+{
+    "wp-widget-etheme-recent-posts": {
+        "name": "wp-widget-etheme-recent-posts",
+        "title": "8theme - &nbsp;&nbsp;Posts Widget",
+        "categories": [
+            "wordpress"
+        ]
+    },
+    "wp-widget-etheme-socials": {
+        "name": "wp-widget-etheme-socials",
+        "title": "8theme - &nbsp;&nbsp;Social links",
+        "categories": [
+            "wordpress"
+        ]
+    },
+    "wp-widget-etheme-menu": {
+        "name": "wp-widget-etheme-menu",
+        "title": "8theme - &nbsp;&nbsp;Menu",
+        "categories": [
+            "wordpress"
+        ]
+    },
+    "theme-etheme_site-logo": {
+        "name": "theme-etheme_site-logo",
+        "title": "Site Logo",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_account": {
+        "name": "theme-etheme_account",
+        "title": "My Account",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_cart": {
+        "name": "theme-etheme_cart",
+        "title": "Shopping Cart",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_wishlist": {
+        "name": "theme-etheme_wishlist",
+        "title": "Wishlist",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_waitlist": {
+        "name": "theme-etheme_waitlist",
+        "title": "Waitlist",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_compare": {
+        "name": "theme-etheme_compare",
+        "title": "Compare",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_newsletter": {
+        "name": "theme-etheme_newsletter",
+        "title": "Newsletter",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_ajax_search": {
+        "name": "theme-etheme_ajax_search",
+        "title": "Header Ajax Search",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_ajax_search_popup": {
+        "name": "theme-etheme_ajax_search_popup",
+        "title": "Popup Search",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_mega_menu": {
+        "name": "theme-etheme_mega_menu",
+        "title": "Mega Menu",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_departments_menu": {
+        "name": "theme-etheme_departments_menu",
+        "title": "Departments Menu",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_nav_menu": {
+        "name": "theme-etheme_nav_menu",
+        "title": "Nav Menu",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "theme-etheme_mobile_menu": {
+        "name": "theme-etheme_mobile_menu",
+        "title": "Mobile Menu",
+        "categories": [
+            "theme-elements"
+        ]
+    },
+    "woocommerce-product-etheme_product_images": {
+        "name": "woocommerce-product-etheme_product_images",
+        "title": "Product Images",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_size_guide": {
+        "name": "woocommerce-product-etheme_size_guide",
+        "title": "Size Guide",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_wishlist": {
+        "name": "woocommerce-product-etheme_wishlist",
+        "title": "Wishlist",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_waitlist": {
+        "name": "woocommerce-product-etheme_waitlist",
+        "title": "Waitlist",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_compare": {
+        "name": "woocommerce-product-etheme_compare",
+        "title": "Compare",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_additional_custom_block": {
+        "name": "woocommerce-product-etheme_additional_custom_block",
+        "title": "Additional Custom Block",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_cross_sells": {
+        "name": "woocommerce-product-etheme_cross_sells",
+        "title": "Cross-Sells Products",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_upsells": {
+        "name": "woocommerce-product-etheme_upsells",
+        "title": "Upsells Products",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_related": {
+        "name": "woocommerce-product-etheme_related",
+        "title": "Related Products",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_price": {
+        "name": "woocommerce-product-etheme_price",
+        "title": "Product Price",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_meta": {
+        "name": "woocommerce-product-etheme_meta",
+        "title": "Product Meta",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_short_description": {
+        "name": "woocommerce-product-etheme_short_description",
+        "title": "Short Description",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_title": {
+        "name": "woocommerce-product-etheme_title",
+        "title": "Product Title",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_content": {
+        "name": "woocommerce-product-etheme_content",
+        "title": "Product Content",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_stock": {
+        "name": "woocommerce-product-etheme_stock",
+        "title": "Product Stock",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_sales_booster_fake_sales": {
+        "name": "woocommerce-product-etheme_sales_booster_fake_sales",
+        "title": "Fake Sales (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_sales_booster_fake_live_viewing": {
+        "name": "woocommerce-product-etheme_sales_booster_fake_live_viewing",
+        "title": "Fake Live Views (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_sales_booster_estimated_delivery": {
+        "name": "woocommerce-product-etheme_sales_booster_estimated_delivery",
+        "title": "Estimated Delivery (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_sales_booster_quantity_discounts": {
+        "name": "woocommerce-product-etheme_sales_booster_quantity_discounts",
+        "title": "Quantity Discounts (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-etheme_woocommerce_price_filter": {
+        "name": "woocommerce-etheme_woocommerce_price_filter",
+        "title": "Price Filter",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-etheme_sales_cart_checkout_progress_bar": {
+        "name": "woocommerce-etheme_sales_cart_checkout_progress_bar",
+        "title": "Progress Bar (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-archive",
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-etheme_sales_cart_checkout_countdown": {
+        "name": "woocommerce-etheme_sales_cart_checkout_countdown",
+        "title": "Cart\/Checkout Countdown (SB)",
+        "categories": [
+            "woocommerce-elements-archive",
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-etheme_sales_booster_safe_checkout": {
+        "name": "woocommerce-etheme_sales_booster_safe_checkout",
+        "title": "Safe Checkout (Sales Booster)",
+        "categories": [
+            "woocommerce-elements-archive",
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-etheme_breadcrumb": {
+        "name": "woocommerce-etheme_breadcrumb",
+        "title": "WooCommerce Breadcrumb",
+        "categories": [
+            "woocommerce-elements-archive",
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_frequently_bought_together": {
+        "name": "woocommerce-product-etheme_frequently_bought_together",
+        "title": "Frequently Bought Together",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_advanced_stock_status": {
+        "name": "woocommerce-product-etheme_advanced_stock_status",
+        "title": "Advanced Stock Status",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_add_to_cart": {
+        "name": "woocommerce-product-etheme_add_to_cart",
+        "title": "Add to Cart \/ Buy Now Button",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_request_a_quote": {
+        "name": "woocommerce-product-etheme_request_a_quote",
+        "title": "Request A Quote",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_attributes": {
+        "name": "woocommerce-product-etheme_attributes",
+        "title": "Product Attributes",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_tabs": {
+        "name": "woocommerce-product-etheme_tabs",
+        "title": "Single Product Tabs",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_reviews": {
+        "name": "woocommerce-product-etheme_reviews",
+        "title": "Reviews",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-product-etheme_sticky_cart": {
+        "name": "woocommerce-product-etheme_sticky_cart",
+        "title": "Sticky Cart",
+        "categories": [
+            "woocommerce-elements-single"
+        ]
+    },
+    "theme-archive-etheme_title": {
+        "name": "theme-archive-etheme_title",
+        "title": "Archive Title",
+        "categories": [
+            "woocommerce-elements-archive",
+            "theme-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_description": {
+        "name": "woocommerce-archive-etheme_description",
+        "title": "Archive Description",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_description_second": {
+        "name": "woocommerce-archive-etheme_description_second",
+        "title": "Archive Second Description",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-etheme_woocommerce_hook": {
+        "name": "woocommerce-etheme_woocommerce_hook",
+        "title": "WooCommerce Hook",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-etheme_archive_products": {
+        "name": "woocommerce-etheme_archive_products",
+        "title": "Archive Products",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_dynamic_categories": {
+        "name": "woocommerce-archive-etheme_dynamic_categories",
+        "title": "Spotlight Categories",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_result_count": {
+        "name": "woocommerce-archive-etheme_result_count",
+        "title": "Result count",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_product_sorting": {
+        "name": "woocommerce-archive-etheme_product_sorting",
+        "title": "Product Sorting",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_product_per_page": {
+        "name": "woocommerce-archive-etheme_product_per_page",
+        "title": "Products Per Page",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-archive-etheme_grid_list": {
+        "name": "woocommerce-archive-etheme_grid_list",
+        "title": "Grid\/List Switcher",
+        "categories": [
+            "woocommerce-elements-archive"
+        ]
+    },
+    "woocommerce-etheme_cart_checkout_breadcrumbs": {
+        "name": "woocommerce-etheme_cart_checkout_breadcrumbs",
+        "title": "Cart\/Checkout Breadcrumbs (steps)",
+        "categories": [
+            "woocommerce-elements-archive",
+            "woocommerce-elements-single"
+        ]
+    },
+    "woocommerce-cart-etheme_page": {
+        "name": "woocommerce-cart-etheme_page",
+        "title": "Cart Page (Default)",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-cart-etheme_page_separated": {
+        "name": "woocommerce-cart-etheme_page_separated",
+        "title": "Cart Page (Separated)",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-cart-etheme_totals": {
+        "name": "woocommerce-cart-etheme_totals",
+        "title": "Cart Totals",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-cart-etheme_table": {
+        "name": "woocommerce-cart-etheme_table",
+        "title": "Cart Table",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-checkout-etheme_page": {
+        "name": "woocommerce-checkout-etheme_page",
+        "title": "Checkout Page (Default)",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-checkout-etheme_page_multistep": {
+        "name": "woocommerce-checkout-etheme_page_multistep",
+        "title": "Checkout Page (Multistep)",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "woocommerce-checkout-etheme_page_separated": {
+        "name": "woocommerce-checkout-etheme_page_separated",
+        "title": "Checkout Page (Separated)",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "archive-etheme_posts": {
+        "name": "archive-etheme_posts",
+        "title": "Archive Posts",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "archive-etheme_posts_chess": {
+        "name": "archive-etheme_posts_chess",
+        "title": "Archive Posts Chess",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "archive-etheme_posts_timeline": {
+        "name": "archive-etheme_posts_timeline",
+        "title": "Archive Posts Timeline",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "theme-post-etheme_title": {
+        "name": "theme-post-etheme_title",
+        "title": "Post Title",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "theme-post-etheme_excerpt": {
+        "name": "theme-post-etheme_excerpt",
+        "title": "Post Excerpt",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "theme-post-etheme_content": {
+        "name": "theme-post-etheme_content",
+        "title": "Post Content",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "theme-post-etheme_featured-image": {
+        "name": "theme-post-etheme_featured-image",
+        "title": "Featured Image",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "theme-post-etheme_info": {
+        "name": "theme-post-etheme_info",
+        "title": "Post Info",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "theme-post-etheme_author-box": {
+        "name": "theme-post-etheme_author-box",
+        "title": "Author Box",
+        "categories": [
+            "theme-elements-single",
+            "theme-elements-archive"
+        ]
+    },
+    "theme-post-etheme_comments": {
+        "name": "theme-post-etheme_comments",
+        "title": "Post Comments",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "post-related_etheme_posts": {
+        "name": "post-related_etheme_posts",
+        "title": "Related Posts",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "post-related_etheme_posts_carousel": {
+        "name": "post-related_etheme_posts_carousel",
+        "title": "Related Posts Carousel",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "etheme_post_navigation": {
+        "name": "etheme_post_navigation",
+        "title": "Posts Navigation",
+        "categories": [
+            "theme-elements-single",
+            "woocommerce-elements-single"
+        ]
+    },
+    "etheme_post_sticky_navigation": {
+        "name": "etheme_post_sticky_navigation",
+        "title": "Posts Sticky Navigation",
+        "categories": [
+            "theme-elements-single"
+        ]
+    },
+    "search-results-etheme_posts": {
+        "name": "search-results-etheme_posts",
+        "title": "Searched Posts",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "search-results-woocommerce-etheme_products": {
+        "name": "search-results-woocommerce-etheme_products",
+        "title": "Searched Products",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "search-results-etheme_projects": {
+        "name": "search-results-etheme_projects",
+        "title": "Searched Projects",
+        "categories": [
+            "theme-elements-archive"
+        ]
+    },
+    "woocommerce-account-etheme_page": {
+        "name": "woocommerce-account-etheme_page",
+        "title": "My Account Page",
+        "categories": [
+            "woocommerce-elements"
+        ]
+    },
+    "etheme_advanced_headline": {
+        "name": "etheme_advanced_headline",
+        "title": "Advanced Headline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_animated_headline": {
+        "name": "etheme_animated_headline",
+        "title": "Animated Headline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_advanced_calculator": {
+        "name": "etheme_advanced_calculator",
+        "title": "Advanced Calculator",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_static_block": {
+        "name": "etheme_static_block",
+        "title": "Static Block",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_banner_carousel": {
+        "name": "etheme_banner_carousel",
+        "title": "Banner Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_flipbox": {
+        "name": "etheme_flipbox",
+        "title": "FlipBox",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_blockquote": {
+        "name": "etheme_blockquote",
+        "title": "Blockquote",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_marquee": {
+        "name": "etheme_marquee",
+        "title": "Marquee",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_carousel_anything": {
+        "name": "etheme_carousel_anything",
+        "title": "Carousel Anything",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_slideshow": {
+        "name": "etheme_slideshow",
+        "title": "XStore Slider",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme-countdown": {
+        "name": "etheme-countdown",
+        "title": "Countdown Timer",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_circle_progress_bar": {
+        "name": "etheme_circle_progress_bar",
+        "title": "Circle Progress Bar",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_linear_progress_bar": {
+        "name": "etheme_linear_progress_bar",
+        "title": "Linear Progress Bar",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_categories": {
+        "name": "etheme_categories",
+        "title": "Product Categories",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_categories_lists": {
+        "name": "etheme_categories_lists",
+        "title": "Product Categories Lists",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_products": {
+        "name": "etheme_products",
+        "title": "Products",
+        "categories": [
+            "eight_theme_deprecated"
+        ]
+    },
+    "etheme_product_list": {
+        "name": "etheme_product_list",
+        "title": "Products List",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_product_grid": {
+        "name": "etheme_product_grid",
+        "title": "Products Grid",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_product_carousel": {
+        "name": "etheme_product_carousel",
+        "title": "Products Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_product_menu_layout": {
+        "name": "etheme_product_menu_layout",
+        "title": "Price List",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_product_filters": {
+        "name": "etheme_product_filters",
+        "title": "Product Filters",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_wc_add_to_cart": {
+        "name": "etheme_wc_add_to_cart",
+        "title": "Add To Cart",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_paypal": {
+        "name": "etheme_paypal",
+        "title": "PayPal Button",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_ajax_search": {
+        "name": "etheme_ajax_search",
+        "title": "Ajax Search",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_price_table": {
+        "name": "etheme_price_table",
+        "title": "Pricing Table",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_hotspot": {
+        "name": "etheme_hotspot",
+        "title": "Hotspot",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_horizontal_scroll": {
+        "name": "etheme_horizontal_scroll",
+        "title": "Horizontal Scroll",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_posts": {
+        "name": "etheme_posts",
+        "title": "Posts",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_posts_chess": {
+        "name": "etheme_posts_chess",
+        "title": "Posts Chess",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_posts_tabs": {
+        "name": "etheme_posts_tabs",
+        "title": "Posts Tabs",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_posts_carousel": {
+        "name": "etheme_posts_carousel",
+        "title": "Posts Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_posts_timeline": {
+        "name": "etheme_posts_timeline",
+        "title": "Posts Timeline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_projects": {
+        "name": "etheme_projects",
+        "title": "Projects",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_projects_chess": {
+        "name": "etheme_projects_chess",
+        "title": "Projects Chess",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_projects_timeline": {
+        "name": "etheme_projects_timeline",
+        "title": "Projects Timeline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_projects_carousel": {
+        "name": "etheme_projects_carousel",
+        "title": "Projects Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_timeline": {
+        "name": "etheme_timeline",
+        "title": "Vertical Timeline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_horizontal_timeline": {
+        "name": "etheme_horizontal_timeline",
+        "title": "Horizontal Timeline",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_slider": {
+        "name": "etheme_slider",
+        "title": "Slider",
+        "categories": [
+            "eight_theme_deprecated"
+        ]
+    },
+    "etheme_slides": {
+        "name": "etheme_slides",
+        "title": "Slides",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_gallery": {
+        "name": "etheme_gallery",
+        "title": "Gallery",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_media_carousel": {
+        "name": "etheme_media_carousel",
+        "title": "Media Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme-follow": {
+        "name": "etheme-follow",
+        "title": "Social Links",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme-instagram": {
+        "name": "etheme-instagram",
+        "title": "Instagram",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme-google-map": {
+        "name": "etheme-google-map",
+        "title": "Google Map",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_image_comparison": {
+        "name": "etheme_image_comparison",
+        "title": "Image Comparison",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_icon_list": {
+        "name": "etheme_icon_list",
+        "title": "Icon List",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_lottie_animation": {
+        "name": "etheme_lottie_animation",
+        "title": "Lottie Animation",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_icon_box": {
+        "name": "etheme_icon_box",
+        "title": "Icon Box",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_icon_box_carousel": {
+        "name": "etheme_icon_box_carousel",
+        "title": "Icon Box Carousel",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_scroll_progress": {
+        "name": "etheme_scroll_progress",
+        "title": "Scroll Progress",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_three_sixty_product_viewer": {
+        "name": "etheme_three_sixty_product_viewer",
+        "title": "360° Product Viewer",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_modal_popup": {
+        "name": "etheme_modal_popup",
+        "title": "Modal Popup",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_content_switcher": {
+        "name": "etheme_content_switcher",
+        "title": "Content switcher",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_toggle_text": {
+        "name": "etheme_toggle_text",
+        "title": "Toggle text",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_facebook_comments": {
+        "name": "etheme_facebook_comments",
+        "title": "Facebook Comments",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_facebook_embed": {
+        "name": "etheme_facebook_embed",
+        "title": "Facebook Embed",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_twitter_feed": {
+        "name": "etheme_twitter_feed",
+        "title": "Twitter Feed",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_twitter_feed_slider": {
+        "name": "etheme_twitter_feed_slider",
+        "title": "Twitter Feed Slider",
+        "categories": [
+            "eight_theme_general"
+        ]
+    },
+    "etheme_tag_cloud": {
+        "name": "etheme_tag_cloud",
+        "title": "Tag\/Category Cloud",
+        "categories": [
+            "eight_theme_general",
+            "woocommerce-elements-single",
+            "woocommerce-elements-archive",
+            "theme-elements-single"
+        ]
+    },
+    "etheme_sidebar": {
+        "name": "etheme_sidebar",
+        "title": "Sidebar\/Filters",
+        "categories": [
+            "eight_theme_general",
+            "theme-elements-archive",
+            "woocommerce-elements-single",
+            "woocommerce-elements-archive",
+            "theme-elements-single"
+        ]
+    },
+    "etheme_sidebar_off_canvas": {
+        "name": "etheme_sidebar_off_canvas",
+        "title": "Off-Canvas Sidebar\/Filters",
+        "categories": [
+            "eight_theme_general",
+            "theme-elements-archive",
+            "woocommerce-elements-single",
+            "woocommerce-elements-archive",
+            "theme-elements-single"
+        ]
+    },
+    "etheme_sidebar_horizontal": {
+        "name": "etheme_sidebar_horizontal",
+        "title": "Horizontal Filters",
+        "categories": [
+            "eight_theme_general",
+            "theme-elements-archive",
+            "woocommerce-elements-archive"
+        ]
+    },
+    "etheme_sidebar_horizontal_toggle": {
+        "name": "etheme_sidebar_horizontal_toggle",
+        "title": "Horizontal Filters Toggle",
+        "categories": [
+            "eight_theme_general",
+            "theme-elements-archive",
+            "woocommerce-elements-archive"
+        ]
+    },
+    "dokan-store-featured-products": {
+        "name": "dokan-store-featured-products",
+        "title": "Featured Products",
+        "categories": [
+            "dokan-store-elements-single"
+        ]
+    }
+}
